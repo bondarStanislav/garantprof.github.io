@@ -492,11 +492,11 @@ p {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .subscribe form {
-    width: 53%;
+    width: 60%;
     margin: 3em auto 2em;
 }
-.subscribe input[type="email"] {
-    width: 77%;
+.subscribe input[type="tel"] {
+    width: 60%;
     padding: 1em;
     font-size: 1em;
 	float: left;
@@ -523,7 +523,7 @@ p {
     -webkit-appearance: none;
     background: #ff7200;
 }
-.subscribe form:hover input[type="email"]{
+.subscribe form:hover input[type="tel"]{
     border-color: #00bcd4;
 }
 .subscribe form:hover input[type="submit"] {
@@ -822,7 +822,7 @@ p {
 	padding: 10px 12px;
 	-webkit-appearance: none;
 }
-.contact-right input[type="email"] {
+.contact-right input[type="tel"] {
 	border: 1px solid #999;
 	margin: 0 .5em 1em 0.5em;
 	outline: none;
@@ -859,9 +859,9 @@ p {
     -webkit-appearance: none;
 }
 .contact-right input[type="submit"]:hover{ 
-	color:#ff7200;
-	background:#fff;
-	border-color:#ff7200;
+    color:#ff7200;
+    background:#fff;
+    border-color:#ff7200;
 }
 /*-- //contact --*/
 /*-- portfolio --*/ 
@@ -1932,7 +1932,7 @@ ul.dropdown-menu {
 .w3about-slid h4 {
     font-size: 2.2em;
 }
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 75%;
 }
 .footer-wthree-grid:nth-child(2) {
@@ -1996,7 +1996,7 @@ ul.simplefilter {
 .news-agileinfo h4 span {
     font-size: 2em; 
 }
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 73%;
 }
 .pince-left {
@@ -2013,7 +2013,7 @@ h4.w3ls-title {
 }
 }
 @media(max-width:640px){
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 72%;
 }
 .team-grids:nth-child(4) {
@@ -2027,7 +2027,7 @@ h4.w3ls-title {
 .banner-img1, .banner-img2 {
     min-height:560px;
 }
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 69%;
 }
 .agileits-title p {
@@ -2050,7 +2050,7 @@ h4.w3ls-title {
 }
 }
 @media(max-width:568px){
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 67%;
 }
 .agile-footer h6 {
@@ -2062,7 +2062,7 @@ h4.w3ls-title {
 .map iframe { 
     height: 200px; 
 }
-.contact-right input[type="text"],.contact-right input[type="email"] {
+.contact-right input[type="text"],.contact-right input[type="tel"] {
     width: 100%;
 	margin:0 0 1em 0;
 }
@@ -2120,7 +2120,7 @@ p {
 .subscribe h4 {
     font-size: 2em;
 }
-.subscribe input[type="email"] { 
+.subscribe input[type="tel"] { 
     padding: 0.8em 1em;
     font-size: 0.9em; 
 }
@@ -2357,7 +2357,7 @@ h4.w3ls-title {
 .numscroller {
     font-size: 1.5em;
 }
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 73%;
 }
 .simplefilter li {
@@ -2395,7 +2395,7 @@ div#bs-example-navbar-collapse-1 {
 .w3about-slid {
     padding: 2em 0;
 }
-.subscribe input[type="email"] {
+.subscribe input[type="tel"] {
     width: 68%;
 }
 .simplefilter li {
